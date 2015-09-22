@@ -1,3 +1,9 @@
+---
+services:
+platforms:
+author: azure
+---
+
 # URL Shortener - The Android Client
 This is an Android client for a URL Shortening service.  The client depends on a web service backend written in PHP which is [available here](https://github.com/WindowsAzure-Samples/UrlShortener-PHP).  Once the PHP site is up and running in Windows Azure Websites, the Android client will allow users to view shortened URLs as well as adding their own.  This sample was built using Eclipse and the Android SDK.
 
